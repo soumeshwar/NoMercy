@@ -3,6 +3,6 @@
 </div>
 
 <div align="center">
-  **NoMercy**
+  <p style="font-weight: bold;">NoMercy</p>
   <p>Undetectable Python Malware</p>
 </div>
