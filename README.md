@@ -4,7 +4,7 @@
 
 <div align="center">
   <p style="font-weight: bold;">NoMercy</p>
-  <p>Undetectable Python Malware</p>
+  <p>Python Malware</p>
 </div>
 
 # RUN THE MALWARE
