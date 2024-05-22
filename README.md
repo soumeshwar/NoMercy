@@ -11,7 +11,7 @@
 
 # DOWNLOAD https://github.com/soumeswar/NoMercy/blob/main/dontrun.py
 
-# EXECUTE THAT FILE (IT WILL AUTOMATICALLY DOWNLOAD unknown.py and execute it !
+# EXECUTE THAT FILE (IT WILL AUTOMATICALLY DOWNLOAD unknown.py and execute it !)
 
 # BOOM !
 
