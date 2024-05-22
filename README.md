@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://github.com/](https://github.com/soumeswar/NoMercy/blob/main/nomercy.png" alt="NoMercy"/>
-</p>
+![NoMercy](https://github.com/soumeswar/NoMercy/blob/main/nomercy.png)
+
 # NoMercy
-# Undetectable Python Malware
+## Undetectable Python Malware
